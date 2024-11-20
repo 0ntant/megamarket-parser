@@ -1,0 +1,1964 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-10-28T10:38:48Z",
+        "traceId": "1dd2f5468a8433f0",
+        "requestId": "2o3xBxXEGG5QBCxA5OhwvP97yfn",
+        "appVersion": "mgate:4711952"
+    },
+    "errors": [],
+    "offers": [
+        {
+            "id": "19235843285",
+            "price": 22888,
+            "score": 0,
+            "isFavorite": true,
+            "merchantId": "198273",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 30 октября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "30 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 22888,
+            "bonusPercent": 8,
+            "bonusAmount": 1833,
+            "availableQuantity": 1,
+            "bonusAmountFinalPrice": 2062,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "841684864",
+            "merchantName": "ИП ТРЕУШКОВ СЕРГЕЙ АЛЕКСЕЕВИЧ",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 29999,
+            "oldPriceChangePercentage": -24,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 669,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": {
+                "displayText": "Завтра или позже",
+                "order": 1,
+                "shortTitle": "Завтра или позже",
+                "isSelected": true
+            },
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "3177218",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 2062,
+                    "percent": 9,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1833,
+                            "percent": 8,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 229,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1833,
+                    "percent": 8,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1833,
+                            "percent": 8,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 458,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 458,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "18218300006",
+            "price": 26990,
+            "score": 1,
+            "isFavorite": false,
+            "merchantId": "38541",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-29T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": 2,
+                    "appliedPromotionTags": [],
+                    "isDbm": true,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка курьером продавца",
+                    "displayDeliveryDate": "с 29 октября по 31 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 26990,
+            "bonusPercent": 1,
+            "bonusAmount": 270,
+            "availableQuantity": 1,
+            "bonusAmountFinalPrice": 540,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "162769",
+            "merchantName": "mix-mobile.ru",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 789,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "668222",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 270,
+                    "percent": 1,
+                    "title": "Начислим за товар",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 270,
+                            "percent": 1,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 540,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 540,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_COURIER"
+            ]
+        },
+        {
+            "id": "19382669106",
+            "price": 27777,
+            "score": 2,
+            "isFavorite": false,
+            "merchantId": "69032",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-31T00:00:00+03:00",
+                    "amount": 1000,
+                    "isDefault": false,
+                    "maxDeliveryDays": 13,
+                    "appliedPromotionTags": [],
+                    "isDbm": true,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка курьером продавца",
+                    "displayDeliveryDate": "с 31 октября по 13 ноября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 27777,
+            "bonusPercent": 0,
+            "bonusAmount": 0,
+            "availableQuantity": 1,
+            "bonusAmountFinalPrice": 556,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "101775385",
+            "merchantName": "Alt-Dim",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.3,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 812,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "1414442",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 556,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 556,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_COURIER"
+            ]
+        },
+        {
+            "id": "18442147494",
+            "price": 32464,
+            "score": 3,
+            "isFavorite": false,
+            "merchantId": "159900",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 30 октября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "30 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 32464,
+            "bonusPercent": 6,
+            "bonusAmount": 1949,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 2274,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "71115867",
+            "merchantName": "SmartFlow",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.3,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 949,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "3085047",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 2274,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1949,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 325,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1949,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1949,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 650,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 650,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "18441047187",
+            "price": 32758,
+            "score": 4,
+            "isFavorite": false,
+            "merchantId": "159921",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 30 октября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "30 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 32758,
+            "bonusPercent": 6,
+            "bonusAmount": 1967,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 2295,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "81116461",
+            "merchantName": "Digitaly",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 958,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "3085098",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 2295,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1967,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 328,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1967,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1967,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 656,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 656,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "19279767215",
+            "price": 33052,
+            "score": 5,
+            "isFavorite": false,
+            "merchantId": "88006",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-11-01T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 1 ноября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-11-01T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "1 ноября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 33052,
+            "bonusPercent": 6,
+            "bonusAmount": 1985,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 2316,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "5117234",
+            "merchantName": "МегаТех",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.8,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 966,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "1686682",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 2316,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1985,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 331,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1985,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1985,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 662,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 662,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "19279758266",
+            "price": 33345,
+            "score": 6,
+            "isFavorite": false,
+            "merchantId": "34210",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-31T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 31 октября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-10-31T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "31 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 33345,
+            "bonusPercent": 6,
+            "bonusAmount": 2002,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 2336,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "2118100",
+            "merchantName": "A-mobile",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.8,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 975,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "652732",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 2336,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 2002,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 334,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 2002,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 2002,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 667,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 667,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "19279763438",
+            "price": 33639,
+            "score": 7,
+            "isFavorite": false,
+            "merchantId": "40699",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 30 октября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-10-30T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "30 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 33639,
+            "bonusPercent": 1,
+            "bonusAmount": 337,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 673,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "4119671",
+            "merchantName": "Smart Room",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 984,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "677903",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 337,
+                    "percent": 1,
+                    "title": "Начислим за товар",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 337,
+                            "percent": 1,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 673,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 673,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "19235108970",
+            "price": 19590,
+            "score": 8,
+            "isFavorite": false,
+            "merchantId": "121639",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-11-04T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 4 ноября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-11-03T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "3 ноября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 19590,
+            "bonusPercent": 6,
+            "bonusAmount": 1177,
+            "availableQuantity": 2,
+            "bonusAmountFinalPrice": 1373,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "100625",
+            "merchantName": "Tehnobt.store",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.7,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 573,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "2890587",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 1373,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1177,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 196,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1177,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1177,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 392,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 392,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "18766611608",
+            "price": 22990,
+            "score": 9,
+            "isFavorite": false,
+            "merchantId": "138015",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-11-09T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 9 ноября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-11-08T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "8 ноября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 22990,
+            "bonusPercent": 0,
+            "bonusAmount": 0,
+            "availableQuantity": 2,
+            "bonusAmountFinalPrice": 460,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "gt3proseri",
+            "merchantName": "техномаркет59",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 32990,
+            "oldPriceChangePercentage": -30,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 672,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "2973006",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 460,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 460,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "16225992696",
+            "price": 23999,
+            "score": 10,
+            "isFavorite": false,
+            "merchantId": "66904",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-11-04T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка по клику",
+                    "displayDeliveryDate": "с 4 ноября",
+                    "deliveryOptions": [
+                        "ON_DEMAND_DELIVERY_OPTION"
+                    ],
+                    "darkstoreExternalId": ""
+                },
+                {
+                    "code": "PICKUP",
+                    "date": "2024-11-04T00:00:00+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Пункты выдачи",
+                    "displayDeliveryDate": "4 ноября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 23999,
+            "bonusPercent": 6,
+            "bonusAmount": 1441,
+            "availableQuantity": 5,
+            "bonusAmountFinalPrice": 1681,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "886",
+            "merchantName": "\"Xiaomi - RoMi31\" - Магазин Электроники Xiaomi и не только!",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.7,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 702,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "781079",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PAYMENT_TYPE_BONUS",
+                    "totalAmount": 1681,
+                    "percent": 7,
+                    "title": "Оплата Сбером",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1441,
+                            "percent": 6,
+                            "context": ""
+                        },
+                        {
+                            "type": "PAYMENT_TYPE_BONUS_TYPE",
+                            "amount": 240,
+                            "percent": 1,
+                            "context": "SBERPAY"
+                        }
+                    ]
+                },
+                {
+                    "type": "ITEMS_BONUS",
+                    "totalAmount": 1441,
+                    "percent": 6,
+                    "title": "Оплата другими способами",
+                    "bonusInfoItems": [
+                        {
+                            "type": "ITEMS_BONUS_TYPE",
+                            "amount": 1441,
+                            "percent": 6,
+                            "context": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 480,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 480,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND",
+                "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+            ]
+        },
+        {
+            "id": "14254117627",
+            "price": 47498,
+            "score": 11,
+            "isFavorite": false,
+            "merchantId": "122796",
+            "deliveryPossibilities": [
+                {
+                    "code": "COURIER",
+                    "date": "2024-10-28T00:00:00+03:00",
+                    "amount": 299,
+                    "isDefault": false,
+                    "maxDeliveryDays": 0,
+                    "appliedPromotionTags": [],
+                    "isDbm": true,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Доставка курьером продавца",
+                    "displayDeliveryDate": "28 октября",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 47498,
+            "bonusPercent": 0,
+            "bonusAmount": 0,
+            "availableQuantity": 60,
+            "bonusAmountFinalPrice": 950,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "5046346",
+            "merchantName": "Цифровые возможности (DBS)",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.5,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 94996,
+            "oldPriceChangePercentage": -50,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 1389,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "DEFAULT_DELIVERY_OFFER_DUE_DATE",
+            "dueDateText": "Завтра или позже",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [
+                "PREPAY_ONLINE"
+            ],
+            "superPrice": 0,
+            "warehouseId": "2908742",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 950,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 950,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_COURIER"
+            ]
+        },
+        {
+            "id": "0",
+            "price": 17999,
+            "score": 12,
+            "isFavorite": false,
+            "merchantId": "7",
+            "deliveryPossibilities": [
+                {
+                    "code": "CNC",
+                    "date": "2024-10-28T13:38:48+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Забрать в магазине",
+                    "displayDeliveryDate": "сегодня",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 17999,
+            "bonusPercent": 0,
+            "bonusAmount": 0,
+            "availableQuantity": 0,
+            "bonusAmountFinalPrice": 360,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "30061593",
+            "merchantName": "М.видео",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.9,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 526,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "COLLECT_TODAY_OFFER_DUE_DATE",
+            "dueDateText": "Забрать сегодня в магазине",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [],
+            "superPrice": 0,
+            "warehouseId": "",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 360,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 360,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_CNC"
+            ]
+        },
+        {
+            "id": "0",
+            "price": 17999,
+            "score": 13,
+            "isFavorite": false,
+            "merchantId": "739",
+            "deliveryPossibilities": [
+                {
+                    "code": "CNC",
+                    "date": "2024-10-28T13:38:48+03:00",
+                    "amount": 0,
+                    "isDefault": false,
+                    "maxDeliveryDays": null,
+                    "appliedPromotionTags": [],
+                    "isDbm": false,
+                    "deliveryPriceType": "EXACT_DELIVERY_PRICE_DISPLAY_TYPE",
+                    "displayName": "Забрать в магазине",
+                    "displayDeliveryDate": "сегодня",
+                    "deliveryOptions": [],
+                    "darkstoreExternalId": ""
+                }
+            ],
+            "finalPrice": 17999,
+            "bonusPercent": 0,
+            "bonusAmount": 0,
+            "availableQuantity": 0,
+            "bonusAmountFinalPrice": 360,
+            "discounts": [],
+            "priceAdjustments": [],
+            "deliveryDate": "",
+            "pickupDate": "",
+            "merchantOfferId": "71640904",
+            "merchantName": "Эльдорадо",
+            "merchantLogoUrl": "",
+            "merchantUrl": "",
+            "merchantSummaryRating": 4.8,
+            "isBpgByMerchant": false,
+            "nds": 0,
+            "oldPrice": 0,
+            "oldPriceChangePercentage": 0,
+            "maxDeliveryDays": null,
+            "bpgType": "UNKNOWN_BPG_TYPE",
+            "creditPaymentAmount": 526,
+            "installmentPaymentAmount": 0,
+            "showMerchant": null,
+            "salesBlockInfo": null,
+            "dueDate": "COLLECT_TODAY_OFFER_DUE_DATE",
+            "dueDateText": "Забрать сегодня в магазине",
+            "locationId": "",
+            "spasiboIsAvailable": false,
+            "isShowcase": false,
+            "loyaltyPromotionFlags": [],
+            "pricesPerMeasurement": [],
+            "availablePaymentMethods": [],
+            "superPrice": 0,
+            "warehouseId": "",
+            "bnplPaymentParams": null,
+            "installmentPaymentParams": null,
+            "bonusInfoGroups": [
+                {
+                    "type": "PRIME_BONUS",
+                    "totalAmount": 360,
+                    "percent": 2,
+                    "title": "С подпиской СберПрайм",
+                    "bonusInfoItems": [
+                        {
+                            "type": "PRIME_BONUS_TYPE",
+                            "amount": 360,
+                            "percent": 2,
+                            "context": ""
+                        }
+                    ]
+                }
+            ],
+            "calculatedDeliveryDate": "",
+            "goodsId": "100030319618",
+            "typeFilters": [
+                "OFFER_FILTER_TYPE_DELIVERY_CNC"
+            ]
+        }
+    ],
+    "merchants": [
+        {
+            "id": "198273",
+            "name": "ИП ТРЕУШКОВ СЕРГЕЙ АЛЕКСЕЕВИЧ",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000114637",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Треушков Сергей Алексеевич",
+                "address": "",
+                "orgn": "323570000011918",
+                "inn": "572101933140",
+                "form": "ИП",
+                "phone": "79208259254",
+                "email": "treuhkovsa@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/ip-treushkov-sergey-alekseevich/",
+            "url": "https://megamarket.ru/shop/ip-treushkov-sergey-alekseevich/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "38541",
+            "name": "mix-mobile.ru",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000027394",
+            "legalInfo": {
+                "name": "ИП Балякин Михаил Юрьевич",
+                "address": "",
+                "orgn": "319774600655869",
+                "inn": "771684855462",
+                "form": "ИП",
+                "phone": "79255009677",
+                "email": "info@mix-mobile.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/mix-mobileru/",
+            "url": "https://megamarket.ru/shop/mix-mobileru/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "69032",
+            "name": "Alt-Dim",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000044156",
+            "legalInfo": {
+                "name": "Общество с ограниченной ответственностью \"АЛЬТ\"",
+                "address": "150040, Ярославская обл, г.о. город Ярославль, г Ярославль, пр-кт Толбухина, д. 66/47, помещ. 6-12",
+                "orgn": "1227600004356",
+                "inn": "7604383687",
+                "form": "ЮрЛицо",
+                "phone": "79036911191",
+                "email": "market@alt-dim.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/alt-dim/",
+            "url": "https://megamarket.ru/shop/alt-dim/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "159900",
+            "name": "SmartFlow",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000098525",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Аскерова Майя Андреевна",
+                "address": "",
+                "orgn": "324508100101988",
+                "inn": "500723460885",
+                "form": "ИП",
+                "phone": "79852816980",
+                "email": "askerovammp@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/smartflow/",
+            "url": "https://megamarket.ru/shop/smartflow/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "159921",
+            "name": "Digitaly",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000098494",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Сипачев Илья Вадимович",
+                "address": "",
+                "orgn": "324400000013246",
+                "inn": "402802418904",
+                "form": "ИП",
+                "phone": "79166415114",
+                "email": "ilhasipachev@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/digitaly/",
+            "url": "https://megamarket.ru/shop/digitaly/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "88006",
+            "name": "МегаТех",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000059142",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Капустин Алексей Александрович",
+                "address": "",
+                "orgn": "323430000007173",
+                "inn": "432609699519",
+                "form": "ИП",
+                "phone": "79165526149",
+                "email": "kapustiiiin@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1723036189429-07c43dd9-81a4-4fc4-9732-b9aa06bfe082",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/megateh/",
+            "url": "https://megamarket.ru/shop/megateh/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "34210",
+            "name": "A-mobile",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000029158",
+            "legalInfo": {
+                "name": "ИП Глухов Алексей Геннадьевич",
+                "address": "",
+                "orgn": "321435000034181",
+                "inn": "433903775540",
+                "form": "ИП",
+                "phone": "79802181628",
+                "email": "Managergluxov@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1712325633819-ddbf47a5-c2cd-4caf-8c29-a99d6abd86a4",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/a-mobile/",
+            "url": "https://megamarket.ru/shop/a-mobile/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "40699",
+            "name": "Smart Room",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000028978",
+            "legalInfo": {
+                "name": "ИП Мустафаева Светлана Агаевна",
+                "address": "",
+                "orgn": "322435000015061",
+                "inn": "433902377650",
+                "form": "ИП",
+                "phone": "79162345260",
+                "email": "manager.mustafaevas@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1712325860529-7b763b08-3c97-47a2-a78a-1a9fcc3f5213",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/smart-room/",
+            "url": "https://megamarket.ru/shop/smart-room/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "121639",
+            "name": "Tehnobt.store",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000073946",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Галушина Наталья Юрьевна",
+                "address": "",
+                "orgn": "323595800041800",
+                "inn": "594203036096",
+                "form": "ИП",
+                "phone": "79639591666",
+                "email": "tehnobt.store@mail.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/tehnobtstore/",
+            "url": "https://megamarket.ru/shop/tehnobtstore/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "138015",
+            "name": "техномаркет59",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000084476",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Двоеглазова Екатерина Николаевна",
+                "address": "",
+                "orgn": "323595800089565",
+                "inn": "594702404404",
+                "form": "ИП",
+                "phone": "79194789517",
+                "email": "denis.texnika@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/tehnomarket59/",
+            "url": "https://megamarket.ru/shop/tehnomarket59/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "66904",
+            "name": "\"Xiaomi - RoMi31\" - Магазин Электроники Xiaomi и не только!",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000042633",
+            "legalInfo": {
+                "name": "Индивидуальный предприниматель Аршинцев Игорь Александрович",
+                "address": "",
+                "orgn": "322310000026831",
+                "inn": "312343638686",
+                "form": "ИП",
+                "phone": "79102299246",
+                "email": "arshincev2001@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1715614065088-7b80b01a-e968-44ae-ba72-e8ee87d3709d",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/xiaomi-romi31-magazin-elektroniki-xiaomi-i-ne-tolko/",
+            "url": "https://megamarket.ru/shop/xiaomi-romi31-magazin-elektroniki-xiaomi-i-ne-tolko/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "122796",
+            "name": "Цифровые возможности (DBS)",
+            "minDeliveryDate": "2024-10-30",
+            "partnerId": "000074267",
+            "legalInfo": {
+                "name": "Общество с ограниченной ответственностью \"ЦИФРОВЫЕ ВОЗМОЖНОСТИ\"",
+                "address": "125480, г Москва, ул Туристская, д 31 к 1, кв./офис 1",
+                "orgn": "1247700082178",
+                "inn": "7733437186",
+                "form": "ЮрЛицо",
+                "phone": "79955092996",
+                "email": "d.prospects@yandex.ru"
+            },
+            "design": {
+                "logoUrl": "",
+                "mapLogoUrl": ""
+            },
+            "slug": "/shop/cifrovye-vozmozhnosti-dbs/",
+            "url": "https://megamarket.ru/shop/cifrovye-vozmozhnosti-dbs/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "7",
+            "name": "М.видео",
+            "minDeliveryDate": "",
+            "partnerId": "000000048",
+            "legalInfo": {
+                "name": "Общество с ограниченной ответственностью \"МВМ\"",
+                "address": "105066, Москва г, Красносельская Нижн ул, дом № 40/12, корпус 20, этаж 5, помещение II, комната 3",
+                "orgn": "1057746840095",
+                "inn": "7707548740",
+                "form": "ЮрЛицо",
+                "phone": "+7(495) 644-28-48, ext. (7846)",
+                "email": "24@mvideo.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1702395897725-dd7d56c6-2f41-4efa-9d28-7cc2011e8200",
+                "mapLogoUrl": "https://min-lb-vip.goods.ru/mms/img/1638438778992-ac71b2f4-4457-4e3b-9e94-f9a419ecefda"
+            },
+            "slug": "/shop/mvideo/",
+            "url": "https://megamarket.ru/shop/mvideo/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        },
+        {
+            "id": "739",
+            "name": "Эльдорадо",
+            "minDeliveryDate": "",
+            "partnerId": "000000048",
+            "legalInfo": {
+                "name": "Общество с ограниченной ответственностью \"МВМ\"",
+                "address": "105066, Москва г, Красносельская Нижн ул, дом № 40/12, корпус 20, этаж 5, помещение II, комната 3",
+                "orgn": "1057746840095",
+                "inn": "7707548740",
+                "form": "ЮрЛицо",
+                "phone": "+7(495) 644-28-48, ext. (7846)",
+                "email": "24@mvideo.ru"
+            },
+            "design": {
+                "logoUrl": "https://min-lb-vip.goods.ru/mms/img/1727086043138-61a82ead-e252-4396-a52b-123767dd9c6d",
+                "mapLogoUrl": "https://min-lb-vip.goods.ru/mms/img/1588062637483-78bc4c15-d9f2-421f-b451-6ff6af5df4b7"
+            },
+            "slug": "/shop/eldorado/",
+            "url": "https://megamarket.ru/shop/eldorado/",
+            "siteUrl": "",
+            "confirmationTimeLimit": "",
+            "fullName": "",
+            "categories": []
+        }
+    ],
+    "isAvailable": true,
+    "priceInfo": {
+        "priceHistoryPointsList": [],
+        "crossedPrice": 0,
+        "crossedPricePeriod": "",
+        "lastPrice": 0,
+        "isBpg1Available": false,
+        "crossedPriceChangePercentage": 0
+    },
+    "competitorsList": [],
+    "offersShortListSize": 4,
+    "badges": [],
+    "bpgStatus": "UNKNOWN_STATUS",
+    "bpgStatusText": "",
+    "filters": [
+        {
+            "name": "По клику",
+            "value": "OFFER_FILTER_TYPE_DELIVERY_ON_DEMAND"
+        },
+        {
+            "name": "В пункт выдачи",
+            "value": "OFFER_FILTER_TYPE_DELIVERY_PICKUP"
+        },
+        {
+            "name": "Забрать в магазине",
+            "value": "OFFER_FILTER_TYPE_DELIVERY_CNC"
+        },
+        {
+            "name": "Привезет курьер",
+            "value": "OFFER_FILTER_TYPE_DELIVERY_COURIER"
+        }
+    ]
+}

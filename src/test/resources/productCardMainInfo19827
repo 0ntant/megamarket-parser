@@ -1,0 +1,774 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-10-29T05:33:35Z",
+        "traceId": "4b98d1f91f9a863f",
+        "requestId": "2o6BCIc1cuGTykLt1r8sOrt1xeq",
+        "appVersion": "mgate:4725068"
+    },
+    "errors": [],
+    "goods": {
+        "goodsId": "100030319618",
+        "title": "Смарт-часы Huawei GT 3 Pro ODN-B19 Light Titanium / Gray Leather",
+        "titleImage": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/180/711/141/4/100030319618b0.jpg",
+        "attributes": [
+            {
+                "title": "Артикул производителя",
+                "slug": "",
+                "value": "55028474",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Модель",
+                "slug": "",
+                "value": "GT 3 Pro ODN-B19 Light Titanium / Gray Leather",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Бренд",
+                "slug": "",
+                "value": "Huawei",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Гарантия",
+                "slug": "",
+                "value": "Зависит от условий продавца",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 5,
+                "featureDescription": ""
+            },
+            {
+                "title": "Артикул",
+                "slug": "",
+                "value": "55028474",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 30,
+                "featureDescription": ""
+            },
+            {
+                "title": "Страна-производитель",
+                "slug": "",
+                "value": "Китай",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 50,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип",
+                "slug": "",
+                "value": "смарт-часы",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 60,
+                "featureDescription": ""
+            },
+            {
+                "title": "Совместимость с операционной системой",
+                "slug": "",
+                "value": "Android; iOS",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 70,
+                "featureDescription": ""
+            },
+            {
+                "title": "Минимальная совместимая версия iOS",
+                "slug": "",
+                "value": "9",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 90,
+                "featureDescription": ""
+            },
+            {
+                "title": "Минимальная совместимая версия Android",
+                "slug": "",
+                "value": "6",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 100,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип управления",
+                "slug": "",
+                "value": "сенсорное",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 110,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип дисплея",
+                "slug": "",
+                "value": "AMOLED",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 180,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип циферблата",
+                "slug": "",
+                "value": "стрелочный",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 190,
+                "featureDescription": ""
+            },
+            {
+                "title": "Сенсорный дисплей",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 200,
+                "featureDescription": ""
+            },
+            {
+                "title": "Цветной дисплей",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 210,
+                "featureDescription": ""
+            },
+            {
+                "title": "Диагональ дисплея, в дюймах",
+                "slug": "",
+                "value": "1.43",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 220,
+                "featureDescription": ""
+            },
+            {
+                "title": "Разрешение",
+                "slug": "",
+                "value": "466x466",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 240,
+                "featureDescription": ""
+            },
+            {
+                "title": "Защита дисплея",
+                "slug": "",
+                "value": "сапфировое стекло",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 260,
+                "featureDescription": ""
+            },
+            {
+                "title": "Беспроводная связь",
+                "slug": "",
+                "value": "Bluetooth; NFC",
+                "group": {
+                    "title": "Беспроводная связь",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 270,
+                "featureDescription": ""
+            },
+            {
+                "title": "Версия Bluetooth",
+                "slug": "",
+                "value": "5.2",
+                "group": {
+                    "title": "Беспроводная связь",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 280,
+                "featureDescription": ""
+            },
+            {
+                "title": "Поддержка голосовых звонков",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 290,
+                "featureDescription": ""
+            },
+            {
+                "title": "Поддержка видеозвонков",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 300,
+                "featureDescription": ""
+            },
+            {
+                "title": "Датчики",
+                "slug": "",
+                "value": "акселерометр; гироскоп",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 310,
+                "featureDescription": ""
+            },
+            {
+                "title": "Мониторинг",
+                "slug": "",
+                "value": "количества калорий; количества шагов; продолжительности сна; сердечного ритма; уровня кислорода в крови; физической активности",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 320,
+                "featureDescription": ""
+            },
+            {
+                "title": "Уведомления",
+                "slug": "",
+                "value": "sms; вызовы",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 340,
+                "featureDescription": ""
+            },
+            {
+                "title": "Другие функции",
+                "slug": "",
+                "value": "управление камерой смартфона; будильник; вибросигнал; женский календарь",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 350,
+                "featureDescription": ""
+            },
+            {
+                "title": "Количество спортивных режимов",
+                "slug": "",
+                "value": "100",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 360,
+                "featureDescription": ""
+            },
+            {
+                "title": "Бесконтактная оплата",
+                "slug": "",
+                "value": "отсутствует",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 390,
+                "featureDescription": ""
+            },
+            {
+                "title": "Навигация",
+                "slug": "",
+                "value": "BeiDou; GPS; Galileo; ГЛОНАСС",
+                "group": {
+                    "title": "Функции",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 400,
+                "featureDescription": ""
+            },
+            {
+                "title": "Форма корпуса",
+                "slug": "",
+                "value": "круг",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 420,
+                "featureDescription": ""
+            },
+            {
+                "title": "Встроенная камера",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 430,
+                "featureDescription": ""
+            },
+            {
+                "title": "Встроенный динамик",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 440,
+                "featureDescription": ""
+            },
+            {
+                "title": "Встроенный микрофон",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 450,
+                "featureDescription": ""
+            },
+            {
+                "title": "Слот для сим-карты",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": true,
+                "sequence": 460,
+                "featureDescription": ""
+            },
+            {
+                "title": "Степень защиты",
+                "slug": "",
+                "value": "ip68",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 480,
+                "featureDescription": "IP6+ Требования к оборудованию подверженному атмосферным воздействиям. Оборудование со степенью защиты IP68 и выше допускается погружать в воду, глубина погружения указывается дополнительно. Аббревиатура WR (Water Resistant) – это показатель водозащиты, говорящий о способности часов работать в условиях повышенной влажности или под водой."
+            },
+            {
+                "title": "Водонепроницаемость",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 490,
+                "featureDescription": ""
+            },
+            {
+                "title": "Съемный ремешок",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 500,
+                "featureDescription": ""
+            },
+            {
+                "title": "Размер ремешка",
+                "slug": "",
+                "value": "регулируемый",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 510,
+                "featureDescription": ""
+            },
+            {
+                "title": "Материал ремешка",
+                "slug": "",
+                "value": "натуральная кожа",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 520,
+                "featureDescription": ""
+            },
+            {
+                "title": "Цвет ремешка",
+                "slug": "",
+                "value": "серый",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 530,
+                "featureDescription": ""
+            },
+            {
+                "title": "Материал корпуса",
+                "slug": "",
+                "value": "титан",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 540,
+                "featureDescription": ""
+            },
+            {
+                "title": "Цвет корпуса",
+                "slug": "",
+                "value": "серебристый",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 550,
+                "featureDescription": ""
+            },
+            {
+                "title": "Стиль",
+                "slug": "",
+                "value": "современный",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 560,
+                "featureDescription": ""
+            },
+            {
+                "title": "Маркетинговый цвет",
+                "slug": "",
+                "value": "Gray",
+                "group": {
+                    "title": "Корпус и ремешок",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 570,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип питания",
+                "slug": "",
+                "value": "аккумулятор",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 580,
+                "featureDescription": ""
+            },
+            {
+                "title": "Съемный аккумулятор",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 590,
+                "featureDescription": ""
+            },
+            {
+                "title": "Емкость аккумулятора, в мА-ч",
+                "slug": "",
+                "value": "530",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 610,
+                "featureDescription": ""
+            },
+            {
+                "title": "Продолжительность работы, в режиме ожидания, в часах",
+                "slug": "",
+                "value": "336",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 630,
+                "featureDescription": ""
+            },
+            {
+                "title": "Способ зарядки",
+                "slug": "",
+                "value": "беспроводная",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 640,
+                "featureDescription": ""
+            },
+            {
+                "title": "Комплект поставки",
+                "slug": "",
+                "value": "зарядное устройство; инструкция",
+                "group": {
+                    "title": "Комплектация",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 650,
+                "featureDescription": ""
+            },
+            {
+                "title": "Ширина, в мм",
+                "slug": "",
+                "value": "46.6",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 660,
+                "featureDescription": ""
+            },
+            {
+                "title": "Вес, в граммах",
+                "slug": "",
+                "value": "54",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 670,
+                "featureDescription": ""
+            },
+            {
+                "title": "Код товара",
+                "slug": "",
+                "value": "100030319618",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            }
+        ],
+        "webUrl": "https://megamarket.ru/catalog/details/smart-chasy-huawei-gt-3-pro-ond-b19-light-titanium-gray-leather-100030319618/",
+        "slug": "smart-chasy-huawei-gt-3-pro-ond-b19-light-titanium-gray-leather-100030319618_198273",
+        "boxes": [
+            {
+                "box": "1",
+                "packagingUnit": "см",
+                "width": 27,
+                "height": 10,
+                "length": 17,
+                "weightUnit": "кг",
+                "weight": 0.316
+            }
+        ],
+        "categoryId": "10103001",
+        "brand": "Huawei",
+        "contentFlags": [],
+        "contentFlagsStr": [],
+        "stocks": 1,
+        "photosCount": 5,
+        "offersCount": 14,
+        "logisticTags": [
+            "ANYPVZ",
+            "ANYPVZ20",
+            "BORSCH15",
+            "DSM",
+            "FF",
+            "MGT",
+            "MGT20",
+            "REGFULL30",
+            "SAMOKAT",
+            "SBLM135",
+            "SBLM150",
+            "SBLM30",
+            "SBLMMGT_13X",
+            "SBLMMGT_AVIA",
+            "SHIP25_20"
+        ],
+        "images": [
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/180/711/141/4/100030319618b0.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/179/711/141/4/100030319618b1.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/178/711/141/4/100030319618b2.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/177/711/141/4/100030319618b3.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-34/780/176/711/141/4/100030319618b4.jpg"
+        ],
+        "documents": [],
+        "description": "<p>Смарт-часы Huawei GT 3 Pro ODN-B19 Light Titanium / Gray Leather - это стильные и умные гаджеты, которые помогут вам быть в тренде и всегда оставаться на связи.</p>\n<h2>Современность и функциональность в одном!</h2>\n<p>Благодаря стрелочному типу циферблата часы придают особый шарм вашему образу. Они поддерживают голосовые звонки, что позволяет легко и удобно общаться даже в движении. Управление осуществляется сенсорными датчиками, что делает использование этих часов максимально простым и комфортным.</p>\n<ol>\n<li>Мониторинг количества калорий, шагов и продолжительности активности поможет вам следить за состоянием вашего здоровья и контролировать физическую активность.</li>\n<li>Встроенная навигация BeiDou, GPS, Galileo и ГЛОНАСС поможет не заблудиться даже в самых непривычных для вас местах.</li>\n<li>Беспроводная связь через Bluetooth позволяет без усилий подключиться к другим совместимым устройствам, чтобы синхронизировать данные и обмениваться информацией.</li>\n<li>Благодаря степени защиты ip68 эти часы водонепроницаемые, что позволяет использовать их даже во время активных спортивных тренировок и при погружении под воду.</li>\n</ol>\n<p>Используйте смарт-часы Huawei GT 3 Pro ODN-B19 Light Titanium / Gray Leather для управления камерой вашего смартфона, настроения будильником или получения уведомлений о важных сообщениях и звонках. Эти часы будут надежными помощниками в вашей повседневной жизни!</p>",
+        "videos": [],
+        "mainCollectionId": "14196",
+        "package": {
+            "packageType": "UNKNOWN_TYPE",
+            "minQuantity": "0",
+            "weightUnit": "KILOGRAM_WEIGHT_UNIT"
+        }
+    },
+    "goodsIdAlt": "100030319618_198273",
+    "badges": [],
+    "view": "DEFAULT_VIEW",
+    "customVariables": [
+        {
+            "name": "PRODUCT_RETURN_URL",
+            "value": "",
+            "displayName": "https://megamarket.ru/help/article/171510701/"
+        }
+    ],
+    "hasSpecPage": true,
+    "attributesLimit": 20,
+    "similarCollectionSlug": "umnye-chasy",
+    "vendor": null,
+    "manuals": []
+}

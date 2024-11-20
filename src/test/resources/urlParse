@@ -1,0 +1,56 @@
+{
+    "type": "TYPE_MENU_NODE",
+    "params": {
+        "orderId": "",
+        "goods": null,
+        "collection": null,
+        "url": "",
+        "menuNode": {
+            "id": "X13626",
+            "title": "Посуда",
+            "titleImage": "https://main-cdn.sbermegamarket.ru/mid9/hlr-system/171/605/961/318/1/801t.jpg",
+            "nodes": [],
+            "sequence": 10,
+            "subTitle": "",
+            "category": null,
+            "collection": {
+                "collectionId": "13626",
+                "parentId": "13625",
+                "collectionType": "CATEGORY",
+                "title": "Посуда",
+                "isDepartment": true,
+                "hierarchy": [],
+                "url": "/catalog/posuda-801/",
+                "images": {},
+                "description": "",
+                "slug": "posuda-801",
+                "navigationMode": "",
+                "allowedServiceSchemes": [],
+                "code": "",
+                "mainListingCollectionId": "",
+                "attributes": null,
+                "rating": {},
+                "shortTitle": "",
+                "mainListingCollectionRelativeUrl": "",
+                "name": "",
+                "displayName": ""
+            },
+            "parentId": "X13625"
+        },
+        "page": 0,
+        "merchant": null,
+        "searchText": "",
+        "promoPage": {
+            "promoType": "DEFAULT",
+            "isFlatListing": true,
+            "merchantId": "",
+            "slug": "",
+            "selectedNode": null
+        },
+        "selectedListingFilters": [],
+        "flags": [],
+        "assumedCollectionID": "0",
+        "isMultiCategorySearch": false,
+        "customParams": []
+    }
+}

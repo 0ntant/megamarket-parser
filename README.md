@@ -1,0 +1,1 @@
+[Parser implementation requirements](Megamarket_Parsing.pdf)
